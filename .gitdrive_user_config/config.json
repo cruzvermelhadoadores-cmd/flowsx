@@ -1,0 +1,12 @@
+{
+  "defaultRepo": {
+    "owner": "cruzvermelhadoadores-cmd",
+    "repo": "flowsx"
+  },
+  "displayName": "My Drive",
+  "viewMode": "grid",
+  "sortBy": "name",
+  "sortOrder": "asc",
+  "showHiddenFiles": false,
+  "uploadLimitMB": 100
+}
